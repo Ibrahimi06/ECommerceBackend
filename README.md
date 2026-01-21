@@ -160,7 +160,7 @@ You can confidently explain:
 
 ## 👤 Author
 
-**Student Project – C# Backend Development**
+**Xhafer Ibrahimi – C# Backend Development**
 Feel free to extend or refactor this project.
 
 ---
