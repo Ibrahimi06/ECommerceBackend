@@ -161,6 +161,7 @@ You can confidently explain:
 ## 👤 Author
 
 **Xhafer Ibrahimi – C# Backend Development**
+
 Feel free to extend or refactor this project.
 
 ---
