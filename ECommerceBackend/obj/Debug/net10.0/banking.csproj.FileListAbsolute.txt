@@ -1,0 +1,14 @@
+/Users/macintoks/Desktop/banking/banking/bin/Debug/net10.0/banking
+/Users/macintoks/Desktop/banking/banking/bin/Debug/net10.0/banking.deps.json
+/Users/macintoks/Desktop/banking/banking/bin/Debug/net10.0/banking.runtimeconfig.json
+/Users/macintoks/Desktop/banking/banking/bin/Debug/net10.0/banking.dll
+/Users/macintoks/Desktop/banking/banking/bin/Debug/net10.0/banking.pdb
+/Users/macintoks/Desktop/banking/banking/obj/Debug/net10.0/banking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintoks/Desktop/banking/banking/obj/Debug/net10.0/banking.AssemblyInfoInputs.cache
+/Users/macintoks/Desktop/banking/banking/obj/Debug/net10.0/banking.AssemblyInfo.cs
+/Users/macintoks/Desktop/banking/banking/obj/Debug/net10.0/banking.csproj.CoreCompileInputs.cache
+/Users/macintoks/Desktop/banking/banking/obj/Debug/net10.0/banking.dll
+/Users/macintoks/Desktop/banking/banking/obj/Debug/net10.0/refint/banking.dll
+/Users/macintoks/Desktop/banking/banking/obj/Debug/net10.0/banking.pdb
+/Users/macintoks/Desktop/banking/banking/obj/Debug/net10.0/banking.genruntimeconfig.cache
+/Users/macintoks/Desktop/banking/banking/obj/Debug/net10.0/ref/banking.dll

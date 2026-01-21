@@ -1,0 +1,14 @@
+/Users/macintoks/Desktop/ECommerceBackend/bin/Debug/net10.0/ECommerceBackend
+/Users/macintoks/Desktop/ECommerceBackend/bin/Debug/net10.0/ECommerceBackend.deps.json
+/Users/macintoks/Desktop/ECommerceBackend/bin/Debug/net10.0/ECommerceBackend.runtimeconfig.json
+/Users/macintoks/Desktop/ECommerceBackend/bin/Debug/net10.0/ECommerceBackend.dll
+/Users/macintoks/Desktop/ECommerceBackend/bin/Debug/net10.0/ECommerceBackend.pdb
+/Users/macintoks/Desktop/ECommerceBackend/obj/Debug/net10.0/ECommerceBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintoks/Desktop/ECommerceBackend/obj/Debug/net10.0/ECommerceBackend.AssemblyInfoInputs.cache
+/Users/macintoks/Desktop/ECommerceBackend/obj/Debug/net10.0/ECommerceBackend.AssemblyInfo.cs
+/Users/macintoks/Desktop/ECommerceBackend/obj/Debug/net10.0/ECommerceBackend.csproj.CoreCompileInputs.cache
+/Users/macintoks/Desktop/ECommerceBackend/obj/Debug/net10.0/ECommerceBackend.dll
+/Users/macintoks/Desktop/ECommerceBackend/obj/Debug/net10.0/refint/ECommerceBackend.dll
+/Users/macintoks/Desktop/ECommerceBackend/obj/Debug/net10.0/ECommerceBackend.pdb
+/Users/macintoks/Desktop/ECommerceBackend/obj/Debug/net10.0/ECommerceBackend.genruntimeconfig.cache
+/Users/macintoks/Desktop/ECommerceBackend/obj/Debug/net10.0/ref/ECommerceBackend.dll
